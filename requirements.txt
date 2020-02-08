@@ -1,6 +1,6 @@
 astroid==1.6.6
 Click==7.0
-Flask==0.12.2
+Flask==1.0
 Flask-Cors==3.0.3
 gunicorn==19.7.1
 isort==4.3.21
